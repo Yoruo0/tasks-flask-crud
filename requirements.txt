@@ -1,0 +1,9 @@
+#Flask==2.3.0
+flask 
+Flask-SQLAlchemy == 3.1.1
+Flask-Cors == 6.0.1
+Werkzeug
+
+# greenlet ==3.2.3 
+# sqlalchemy == 2.0.41 
+# typing-extensions == 4.14.1 
